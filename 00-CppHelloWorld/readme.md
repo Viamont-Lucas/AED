@@ -8,7 +8,7 @@
 * Lenguaje de programación C++. 
 * Proceso de compilación. 
 * Pruebas. 
-## 4.3. Problema 
+## 4.3. Problema  
 Adquirir y preparar los recursos necesarias para resolver los trabajos del curso. 
 ## 4.4. Restricciones 
 * Ninguna.
@@ -24,10 +24,10 @@ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
 9. Ejecutar el programa, y capturar su salida en un archivo output.txt . 
 10. Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con readme.md, hello.cpp, y output.txt . 
 11. La última tarea es informar el usuario GitHub en la lista indicada en el curso. 
-## 4.6. Productos 
+## 4.6. Productos  
 Usuario 
-`-- AED
-    `-- 00-CppHelloWorld
-        |-- readme.md
-        |-- hello.cpp
+`-- AED  
+    `-- 00-CppHelloWorld  
+        |-- readme.md  
+        |-- hello.cpp  
         `-- output.txt
