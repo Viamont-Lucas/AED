@@ -11,7 +11,7 @@
 ## 4.3. Problema 
 Adquirir y preparar los recursos necesarias para resolver los trabajos del curso. 
 ## 4.4. Restricciones 
-Ninguna.
+* Ninguna.
 ## 4.5. Tarea 
 1. Si no posee una cuenta GitHub, crearla. 
 2. Crear un repositorio público llamado AED. 11Productos 
@@ -22,11 +22,12 @@ Ninguna.
 7. Indicar en readme.md el compilador seleccionado. 
 8. Probar el compilador con un programa hello.cpp que envíe a cout la línea Hello, World! o similar. 
 9. Ejecutar el programa, y capturar su salida en un archivo output.txt . 
-10.Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con readme.md, hello.cpp, y output.txt . 
-11.La última tarea es informar el usuario GitHub en la lista indicada en el curso. 
+10. Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con readme.md, hello.cpp, y output.txt . 
+11. La última tarea es informar el usuario GitHub en la lista indicada en el curso. 
 ## 4.6. Productos 
-Usuario `-- AED
-`-- 00-CppHelloWorld
-|-- readme.md
-|-- hello.cpp
-`-- output.txt
+Usuario 
+`-- AED
+    `-- 00-CppHelloWorld
+        |-- readme.md
+        |-- hello.cpp
+        `-- output.txt
