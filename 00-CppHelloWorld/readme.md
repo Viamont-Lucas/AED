@@ -1,4 +1,4 @@
-# "Hello, World!" en C++
+# TP1) "Hello, World!" en C++
 
 ## 1. Objetivos 
 * Demostrar con, un programa simple, que se está en capacidad de editar, compilar, y ejecutar un programa C++. 
