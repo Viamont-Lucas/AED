@@ -1,4 +1,4 @@
-# Ejemplos de Valores y Operaciones de Tipos de Datos
+# TP2) Ejemplos de Valores y Operaciones de Tipos de Datos
 ## 6.1. Objetivos
 * Demostrar la aplicación de tipos de datos mediante un programa ejemplo con pruebas.
 ## 6.2. Temas
