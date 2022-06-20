@@ -6,3 +6,4 @@
 * Legajo: 1682878
 * Apellido: Viamont
 * Nombre: Lucas
+* Compilador: MinGW 12.1.0
