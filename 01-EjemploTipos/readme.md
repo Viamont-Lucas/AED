@@ -17,4 +17,4 @@ Diseñar un programa C++ que ejemplifique con pruebas la aplicación de los tipo
 ## 6.6. Productos
 DD-EjemploTipos
 |-- readme.md
-`-- EjemploTipos.cpp
+  `-- EjemploTipos.cpp
